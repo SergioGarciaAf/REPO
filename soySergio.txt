@@ -1,1 +1,2 @@
 Hola soy Sergio 
+Estoy aprendiendo Git
